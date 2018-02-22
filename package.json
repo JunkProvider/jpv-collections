@@ -1,0 +1,26 @@
+{
+  "name": "@junkprovider/collections",
+  "version": "0.1.0-test.2",
+  "description": "Collection stuff like maps, lists...",
+  "author": {
+    "name": "Nico Englert",
+    "email": "junkprovider@outlook.com"
+  },
+  "license": "MIT",
+  "main": "./dist/index.js",
+  "typings": "./dist/index.d.ts",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/JunkProvider/jpv-collections.git"
+  },
+  "scripts": {},
+  "dependencies": {
+    "@junkprovider/common": "^0.1.0-test.3"
+  },
+  "devDependencies": {
+    "@types/node": "^8.0.32",
+    "ts-node": "^3.3.0",
+    "tslint": "^5.8.0",
+    "typescript": "^2.6.2"
+  }
+}
